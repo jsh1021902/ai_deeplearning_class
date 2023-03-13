@@ -1,2 +1,8 @@
-# ai_deeplearning_class
-AI를 위한 딥러닝 강의 자료
+# Repository for AI4DL class
+
+Author: Jeong SeoHyeon
+
+## Folders
+- week[1-16]: Exercise notebooks
+- practice: Random practice of mine
+- etc: anything interesting
